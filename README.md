@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
@@ -59,3 +60,14 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+=======
+Created a Strapi application using create-strapi-app
+
+Installed dependencies automatically
+
+Started the application in development mode
+
+Accessed the Admin Panel
+
+Created collection types and sample content
+>>>>>>> 10501232c67eb4a2be7dbd3db93f388102a2ce40
